@@ -26,6 +26,7 @@ local WHITELIST = {
 	"peroxideisgoodxd",
 	"ilyasvip7",
 	"mmmrigatonirice",
+    "teamm874",
 	"her",
 }
 
