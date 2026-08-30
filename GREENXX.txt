@@ -20,6 +20,7 @@ local player = Players.LocalPlayer
 -- ============================================================
 local WHITELIST = {
 	"rxnofcpro",
+	"mohamedzora3",
 	"totallynotbaxcon",
 	"mohammedzoran777",
 	"yabl777",
