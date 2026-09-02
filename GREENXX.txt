@@ -25,6 +25,7 @@ local WHITELIST = {
 	"mohammedzoran777",
 	"yabl777",
 	"peroxideisgoodxd",
+    "moath_6710",
 	"ilyasvip7",
 	"mmmrigatonirice",
     "teamM874",
