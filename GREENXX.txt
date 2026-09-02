@@ -23,6 +23,7 @@ local WHITELIST = {
     "ilyasvip772",
 	"yabl777",
 	"peroxideisgoodxd",
+    "mohamedzora3",
     "moath_6710",
 	"ilyasvip7",
 	"mmmrigatonirice",
