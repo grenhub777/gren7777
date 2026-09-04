@@ -27,6 +27,7 @@ local WHITELIST = {
     "moath_6710",
 	"ilyasvip7",
 	"mmmrigatonirice",
+    "Emokid_veryemo1",
     "teamM874",
 	"her",
 }
